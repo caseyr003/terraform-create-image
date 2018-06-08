@@ -10,3 +10,4 @@ sudo make install
 sudo yum -y install oracle-ebs-server-R12-preinstall
 sudo mkdir -p /mnt/src
 sudo mkdir -p /mnt/dst
+sudo mkdir -p /mnt/inst
